@@ -44,18 +44,6 @@
 
 ---
 
-## 🎯 What You’ll Find on My GitHub
-
-<p align="center">
-  ✔ Backend-heavy projects with real business logic<br/>
-  ✔ Algorithm-driven systems (ranking, recommendation, search)<br/>
-  ✔ Secure authentication & role-based access control<br/>
-  ✔ Clean Django architectures & API design<br/>
-  ✔ Performance-focused implementations
-</p>
-
----
-
 ## 🤝 Connect With Me
 
 <p align="center">
@@ -63,7 +51,7 @@
     <img src="https://img.shields.io/badge/Email-Bulanda%20Belbase-red?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   &nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/bulanda-belbase">
+  <a href="https://www.linkedin.com/in/bulanda-belbase-7541062b7/">
     <img src="https://img.shields.io/badge/LinkedIn-Bulanda%20Belbase-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
