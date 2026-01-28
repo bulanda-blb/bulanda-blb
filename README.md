@@ -1,12 +1,13 @@
 <h1 align="center">Hi, I'm Bulanda Belbase 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=3000&color=36BCF7&center=true&vCenter=true&width=650&lines=Backend+Software+Engineer;Django+%7C+Databases+%7C+AI+Integrations;Clean+Code+%26+Scalable+Systems" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=2800&color=4F9DFF&center=true&vCenter=true&width=700&lines=Backend+Software+Engineer;Django+%7C+Databases+%7C+AI+Integrations;Scalable+Systems+%26+Clean+Architecture" />
 </p>
 
 <p align="center">
-  Backend Software Engineer building efficient, scalable systems using Python, Django, and modern backend patterns.  
-  Passionate about clean architecture, performance optimization, and real-world impact.
+  I design and build <b>scalable backend systems</b> with strong foundations in <b>algorithms</b>, 
+  <b>databases</b>, and <b>AI-driven logic</b>.  
+  Focused on performance, clarity, and real-world impact.
 </p>
 
 ---
@@ -19,63 +20,54 @@
 
 ---
 
-## 💼 Experience
+## 🧠 Engineering Focus
 
-### **Backend Developer (Contract)**  
-**Optisys Lab** · *Backend Engineering · Scalable Systems*
-
-<p>
-  <ul>
-    <li>Built secure REST APIs using Django and Django REST Framework</li>
-    <li>Designed RBAC (role-based access control) with Auth0 & custom policies</li>
-    <li>Optimized backend data flow using Redis caching & Celery task queues</li>
-    <li>Managed data persistence across PostgreSQL, MongoDB & MinIO/S3</li>
-    <li>Containerized service stack with Docker and automated workflows</li>
-  </ul>
+<p align="center">
+  <img src="https://img.shields.io/badge/System%20Design-Scalable%20Backends-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Algorithms-Ranking%20%26%20Recommendations-purple?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Security-RBAC%20%26%20Auth-green?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Performance-Caching%20%26%20Async-orange?style=for-the-badge" />
 </p>
 
 ---
 
-## 📊 GitHub Overview
+## 📊 GitHub Dashboard
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bulanda-blb&show_icons=true&theme=transparent" alt="GitHub Stats" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=bulanda-blb&show_icons=true&theme=transparent&hide_border=true" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=bulanda-blb&theme=transparent&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=bulanda-blb&theme=transparent" alt="Streak Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bulanda-blb&layout=compact&theme=transparent" alt="Most Used Languages" />
+  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bulanda-blb&layout=compact&theme=transparent&hide_border=true" />
 </p>
 
 ---
 
-## 📈 Activity Snapshot
+## 🎯 What You’ll Find on My GitHub
 
 <p align="center">
-  <img src="https://github.com/bulanda-blb/bulanda-blb/blob/output/github-contribution-grid-snake.svg" alt="Contribution Grid" />
+  ✔ Backend-heavy projects with real business logic<br/>
+  ✔ Algorithm-driven systems (ranking, recommendation, search)<br/>
+  ✔ Secure authentication & role-based access control<br/>
+  ✔ Clean Django architectures & API design<br/>
+  ✔ Performance-focused implementations
 </p>
-
-*(This graph animates your contributions month by month)*
 
 ---
 
-## 📫 Connect With Me
+## 🤝 Connect With Me
 
 <p align="center">
   <a href="mailto:bulandabelbase44@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-red" />
+    <img src="https://img.shields.io/badge/Email-Bulanda%20Belbase-red?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://github.com/bulanda-blb">
-    <img src="https://img.shields.io/badge/GitHub-Follow-black" />
-  </a>
+  &nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/bulanda-belbase">
-    <img src="https://img.shields.io/badge/LinkedIn-Network-blue" />
+    <img src="https://img.shields.io/badge/LinkedIn-Bulanda%20Belbase-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=bulanda-blb&style=flat-square" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=bulanda-blb&style=for-the-badge" />
 </p>
