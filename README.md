@@ -34,13 +34,13 @@
 ## 📊 GitHub Dashboard
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bulanda-blb&show_icons=true&count_private=true&hide_border=true&theme=radical&rank_icon=github" />
+  <img src="https://github-readme-stats.vercel.app/api?username=bulanda-blb&show_icons=true&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=bulanda-blb&hide_border=true&theme=radical" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bulanda-blb&layout=compact&hide_border=true&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bulanda-blb&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
+
 
 
 ---
