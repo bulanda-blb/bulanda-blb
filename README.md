@@ -31,15 +31,15 @@
 
 ---
 
+
 ### 📊 GitHub Statistics
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com" />
-</p>
+![bulanda-blb's Stats](https://github-readme-stats.vercel.app)
+
+![bulanda-blb's Top Languages](https://github-readme-stats.vercel.app)
+
+![bulanda-blb's Streak](https://github-readme-streak-stats.herokuapp.com)
+
 
 
 
