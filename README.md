@@ -33,15 +33,10 @@
 
 ## 📊 GitHub Dashboard
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bulanda-blb&show_icons=true&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bulanda-blb&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
-
+![Your GitHub stats](https://github-readme-stats.vercel.app)
+![Top Languages](https://github-readme-stats.vercel.app)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com)
+![Static Badge](https://img.shields.io)
 
 ---
 
