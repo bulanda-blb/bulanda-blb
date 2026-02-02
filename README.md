@@ -34,19 +34,12 @@
 ## 📊 GitHub Dashboard
 
 <p align="center">
-  <!-- Contribution Activity Graph -->
-  <img src="https://activity-graph.herokuapp.com/graph?username=bulanda-blb&theme=github-compact&hide_border=true&radius=8" />
+  <img src="https://github-readme-stats.vercel.app/api?username=bulanda-blb&show_icons=true&count_private=true&hide_border=true&theme=radical&rank_icon=github" />
 </p>
 
 <p align="center">
-  <!-- Main GitHub Stats -->
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=bulanda-blb&show_icons=true&count_private=true&hide_border=true&theme=radical&rank_icon=github" />
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=bulanda-blb&hide_border=true&theme=radical" />
-</p>
-
-<p align="center">
-  <!-- Language Stats -->
-  <img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bulanda-blb&layout=compact&hide_border=true&theme=radical" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bulanda-blb&layout=compact&hide_border=true&theme=radical" />
 </p>
 
 
