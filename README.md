@@ -34,13 +34,17 @@
 
 ### 📊 GitHub Statistics
 
-![bulanda-blb's Stats](https://github-readme-stats.vercel.app)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app" alt="bulanda-blb's stats" />
+</p>
 
-![bulanda-blb's Top Languages](https://github-readme-stats.vercel.app)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app" alt="bulanda-blb's languages" />
+</p>
 
-![bulanda-blb's Streak](https://github-readme-streak-stats.herokuapp.com)
-
-
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com" alt="bulanda-blb's streak" />
+</p>
 
 
 ---
