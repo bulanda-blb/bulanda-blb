@@ -31,16 +31,16 @@
 
 ---
 
-## 📊 GitHub Dashboard
+### 📊 GitHub Statistics
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app" alt="bulanda-blb's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app" alt="bulanda-blb's Top Languages" />
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com" />
+</p>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com" alt="bulanda-blb's Streak" />
-</div>
 
 
 ---
