@@ -35,16 +35,16 @@
 ### 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app" alt="bulanda-blb's stats" />
+  <!-- Stable Alternative Stats Card -->
+  <img src="https://github-readme-stats-eight-theta.vercel.app" alt="GitHub Stats" />
+  <br/>
+  <!-- Top Languages Card -->
+  <img src="https://github-readme-stats-eight-theta.vercel.app" alt="Top Languages" />
+  <br/>
+  <!-- High Stability Streak Card -->
+  <img src="https://github-readme-streak-stats.herokuapp.com" alt="GitHub Streak" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app" alt="bulanda-blb's languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com" alt="bulanda-blb's streak" />
-</p>
 
 
 ---
