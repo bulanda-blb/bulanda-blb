@@ -29,25 +29,6 @@
   <img src="https://img.shields.io/badge/Performance-Caching%20%26%20Async-orange?style=for-the-badge" />
 </p>
 
----
-
-
-### 📊 GitHub Statistics
-
-<p align="center">
-  <!-- Stable Alternative Stats Card -->
-  <img src="https://github-readme-stats-eight-theta.vercel.app" alt="GitHub Stats" />
-  <br/>
-  <!-- Top Languages Card -->
-  <img src="https://github-readme-stats-eight-theta.vercel.app" alt="Top Languages" />
-  <br/>
-  <!-- High Stability Streak Card -->
-  <img src="https://github-readme-streak-stats.herokuapp.com" alt="GitHub Streak" />
-</p>
-
-
-
----
 
 ## 🤝 Connect With Me
 
