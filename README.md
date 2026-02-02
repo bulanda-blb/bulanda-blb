@@ -29,17 +29,14 @@
   <img src="https://img.shields.io/badge/Performance-Caching%20%26%20Async-orange?style=for-the-badge" />
 </p>
 
-<p>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bulanda-blb&layout=compact&theme=radical&langs_count=6" alt="Top Languages"/>
-</p>
 ---
 
 ### 📈 GitHub Stats
 
   
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shreey001&theme=radical" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bulanda-blb&theme=radical" alt="GitHub Streak"/>
   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shreey001&layout=compact&theme=radical&langs_count=6" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bulanda-blb&layout=compact&theme=radical&langs_count=6" alt="Top Languages"/>
 </p>
 
 ---
