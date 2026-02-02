@@ -31,13 +31,16 @@
 
 ---
 
-### 📈 GitHub Stats
+## 📊 GitHub Stats
 
-  
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bulanda-blb&theme=radical" alt="GitHub Streak"/>
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bulanda-blb&layout=compact&theme=radical&langs_count=6" alt="Top Languages"/>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=bulanda-blb&show_icons=true&theme=radical" />
 </p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bulanda-blb&layout=compact&theme=radical&langs_count=6" />
+</p>
+
 
 ---
 ## 🤝 Connect With Me
