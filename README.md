@@ -34,13 +34,21 @@
 ## 📊 GitHub Dashboard
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=bulanda-blb&show_icons=true&theme=transparent&hide_border=true" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=bulanda-blb&theme=transparent&hide_border=true" />
+  <!-- Contribution Activity Graph -->
+  <img src="https://activity-graph.herokuapp.com/graph?username=bulanda-blb&theme=github-compact&hide_border=true&radius=8" />
 </p>
 
 <p align="center">
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bulanda-blb&layout=compact&theme=transparent&hide_border=true" />
+  <!-- Main GitHub Stats -->
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=bulanda-blb&show_icons=true&count_private=true&hide_border=true&theme=radical&rank_icon=github" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=bulanda-blb&hide_border=true&theme=radical" />
 </p>
+
+<p align="center">
+  <!-- Language Stats -->
+  <img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bulanda-blb&layout=compact&hide_border=true&theme=radical" />
+</p>
+
 
 ---
 
