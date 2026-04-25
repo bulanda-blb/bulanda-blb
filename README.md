@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Bulanda Belbase 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=2800&color=4F9DFF&center=true&vCenter=true&width=700&lines=Backend+Software+Engineer;Django+%7C+Databases+%7C+AI+Integrations;Scalable+Systems+%26+Clean+Architecture" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=2800&color=4F9DFF&center=true&vCenter=true&width=700&lines=Software+Engineer;Django+%7C+Databases+%7C+AI+Integrations;Scalable+Systems+%26+Clean+Architecture" />
 </p>
 
 <p align="center">
